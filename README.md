@@ -1,4 +1,5 @@
-### Prediksi Harga Emas
+## Prediksi Harga Emas
 #### Tugas Akhir Workshop (AI)
-__Sebagai Ujian Akhir Semester__
+__*Sebagai Ujian Akhir Semester*__
+
 [dataset dari kaggle](https://www.kaggle.com/sid321axn/gold-price-prediction-dataset)
